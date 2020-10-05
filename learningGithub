@@ -1,0 +1,22 @@
+==============First Push into VSTS-Git using VsCode=============
+
+If you don't have 'Azure Repos' on your machine
+    ~ then first Goto Extentions on VsCode IDE and install 'Azure Repos'
+
+
+1. Open source in VsCode.
+2. Commit your changes locally.
+3. Open Terminal
+  3.1 git remote add <RepoName> <URL of Repo>
+  3.2 git config --global user.name "sandhipdhall1996@gmail.com" 
+  3.3 git config --global user.email "sandhipdhall1996@gmail.com"
+  3.4 git config --global --list
+  3.5 git push -u SafaiKaramchariAttendance --all
+  3.6 git push -u <RepoName> --all
+
+(after that you are able to commit and push changes in that Repo)
+
+======For Commit and Push
+1. Go to Source control
+   1.1 Enter Commit message
+   1.2 click on options then 'Push' into server
