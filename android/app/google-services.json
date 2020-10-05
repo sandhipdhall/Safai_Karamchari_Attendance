@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849533986758",
+    "firebase_url": "https://safaikaramchariapp.firebaseio.com",
+    "project_id": "safaikaramchariapp",
+    "storage_bucket": "safaikaramchariapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849533986758:android:9ac7b9625e93cab09ef4c7",
+        "android_client_info": {
+          "package_name": "com.safai_karamchari_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849533986758-2523b9sg4lf6c0g063v2pgivo0br63fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZC_hR7ePEK5p_X3G0KHcetEwwbeagGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849533986758-2523b9sg4lf6c0g063v2pgivo0br63fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
